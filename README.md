@@ -78,8 +78,6 @@ To deliver a **comprehensive, interactive Power BI dashboard** that:
 ![Alt text](https://i.ibb.co/Q7D1gPpg/Screenshot-2025-08-05-175953.png)
 
 
-
-
 ### 🏞️ Dashboard 3 – Political Landscape by State
 
 - **Purpose:** Deep-dive into any selected state's political results
@@ -92,9 +90,6 @@ To deliver a **comprehensive, interactive Power BI dashboard** that:
 
 ![Alt text](https://i.ibb.co/xq2VqrYB/Screenshot-2025-08-05-180208.png)
 
-
-
-
 ### 📍 Dashboard 4 – Constituency Analysis
 
 - **Purpose:** Zoom into any single constituency for granular vote-level insights
@@ -104,11 +99,7 @@ To deliver a **comprehensive, interactive Power BI dashboard** that:
   - Bar & pie charts showing vote shares of top candidates
   - Comparison between winner, runner-up, and third place
 
-
-
 ![Alt text](https://i.ibb.co/XrGCBM32/Screenshot-2025-08-05-180315.png)
-
-
 
 ### 📊 Dashboard 5 – Details Grid
 
@@ -120,10 +111,7 @@ To deliver a **comprehensive, interactive Power BI dashboard** that:
   - **Export to Excel** option for offline or custom analysis
   - Bookmark reset button to show all rows again
 
-
 ![Alt text](https://i.ibb.co/Z6V9DvM3/Screenshot-2025-08-05-180444.png)
-
-
 
 ### 🏠 Dashboard 6 – Landing Page
 
