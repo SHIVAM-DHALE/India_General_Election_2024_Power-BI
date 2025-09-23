@@ -75,8 +75,7 @@ To deliver a **comprehensive, interactive Power BI dashboard** that:
   - **Top Performing States per Alliance** with color-coded visual summaries
 
 
-![Alt text](https://i.ibb.co/Q7D1gPpg/Screenshot-2025-08-05-175953.png)
-
+![Alt text](https://i.ibb.co/Ld8DphsZ/Screenshot-2025-08-05-175953.png)
 
 ### 🏞️ Dashboard 3 – Political Landscape by State
 
@@ -99,7 +98,7 @@ To deliver a **comprehensive, interactive Power BI dashboard** that:
   - Bar & pie charts showing vote shares of top candidates
   - Comparison between winner, runner-up, and third place
 
-![Alt text](https://i.ibb.co/XrGCBM32/Screenshot-2025-08-05-180315.png)
+![Alt text](https://i.ibb.co/bgCwXg6n/Screenshot-2025-08-05-180315.png)
 
 ### 📊 Dashboard 5 – Details Grid
 
